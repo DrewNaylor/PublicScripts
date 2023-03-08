@@ -1,7 +1,7 @@
 ;
 ; MoveMouse Version: 2.1
 ; Language:       English (but all this matters for is the code and its comments)
-; Platform:       AutoHotKey v1.1, Windows
+; Platform:       AutoHotKey 1.1, Windows
 ; Author:         Drew Naylor <drewnaylor_apps AT outlook DOT com>
 ; Copyright:      2019, 2021, 2023 Drew Naylor
 ; License:        MIT License. Please view the file "LICENSE" in this repo for more details.
