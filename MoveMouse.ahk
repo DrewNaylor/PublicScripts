@@ -10,7 +10,7 @@
 ; Script Function:
 ;	Moves the mouse to a point on screen. I use this when I'm done working on my computer
 ;       and I want to go to sleep, as there's a place I usually move my pointer to before
-;       turning my mouse and monitor off (it's part of the swish in the bottom-rightish part of the
+;       turning my mouse and monitor off (it's a few inches above part of the swish in the bottom-rightish part of the
 ;       default Windows 7 wallpaper when in widescreen/16:9, if you're wondering).
 ;
 
