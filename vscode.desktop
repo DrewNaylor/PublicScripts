@@ -1,0 +1,15 @@
+# I made this .desktop file because Arch Linux doesn't have the official
+# proprietary version of VS Code in its main repos and I want to use
+# its extensions more easily.
+# You can change the path of the Exec key to whatever you need,
+# then place it in either "~/.local/share/applications/" or
+# "/usr/share/applications" .
+# This .desktop file is under the MIT License. See the "LICENSE"
+# file in this repo for more details.
+# Copyright (C) 2023 Drew Naylor (but should it be under copyright?)
+# Visual Studio Code is Copyright (C) Microsoft Corporation as appropriate.
+# Everything else mentioned is owned by the respective people and organizations accordingly.
+[Desktop Entry]
+Name=Visual Studio Code
+Exec=~/vscode-bin/VSCode-linux-arm64/code
+Icon=com.visualstudio.code.svg
